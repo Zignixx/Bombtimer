@@ -1,0 +1,13 @@
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\bombtimer.exe.config
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.Form1.resources
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.Properties.Resources.resources
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.csproj.GenerateResource.Cache
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\bombtimer.exe
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\bombtimer.pdb
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\CSGSI.dll
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\Newtonsoft.Json.dll
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\CSGSI.pdb
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\bin\Release\CSGSI.xml
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.csprojResolveAssemblyReference.cache
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.exe
+c:\users\cobra\documents\visual studio 2013\Projects\bombtimer\bombtimer\obj\Release\bombtimer.pdb
